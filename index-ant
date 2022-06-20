@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="recursos/base.css" />
+<link rel="stylesheet" type="text/css" href="recursos/content.css" />
+<link rel="stylesheet" type="text/css" href="recursos/nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Juan Carlos Requena</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta http-equiv="content-language" content="es" />
+<meta name="author" content="Juan Carlos Requena." />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+<script type="text/javascript" src="recursos/exe_jquery.js"></script>
+<script type="text/javascript">$exe_i18n={previous:"Anterior",next:"Siguiente",show:"Mostrar",hide:"Ocultar",showFeedback:"Mostrar retroalimentación",hideFeedback:"Ocultar retroalimentación",correct:"Correcto",incorrect:"Incorrecto",menu:"Menú",print:"Imprimir"}</script>
+<script type="text/javascript" src="recursos/common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="exe-web-site"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<div id="header"  style="background-image: url(recursos/logo.png); background-repeat: no-repeat;"><div id="headerContent">Profesor de FP</div></div>
+<div id="siteNav">
+<ul>
+   <li id="active"><a href="index.html" class="active daddy main-node">Sitio web - JC Requena</a></li>
+</ul>
+</div>
+
+<div id="main-wrapper">
+<div id="main"><a name="main"></a>
+<div id="nodeDecoration"><h1 id="nodeTitle">¿Buscando la forma de enviar un email en una tarea programa?</h1></div>
+<a href="https://forms.gle/6Jq926BxN3bNvVU3A"><img src="recursos/problem-67054_960_720.jpg" style="width:300px;height:300px;"></a>   
+
+
+
+</div>
+</div>
+</div>
+<script type="text/javascript" src="recursos/_style_js.js"></script></body></html>
